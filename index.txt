@@ -1,0 +1,11 @@
+Tổng kết kiến thức
+
+---- Xử lý bất đồng bộ: sử dụng async await; tìm hiểu thêm về cơ chế Promise
+---- Kiến thức về localStrorage
+
+---- Kỹ thuật lập trình hướng đối tượng: + Cách khởi tạo Class, tạo mới 1 đối tượng
+                                         + Kế thừa, đóng gói (Đối với js) (Kế thừa, Đóng gói, Đa hình, Trừu tượng)
+
+---- Firebase:  + Firestore: Giúp chúng ta lưu dữ liệu dạng object (document)
+                + Authentication: sign in, ...
+                + next gen: Storage of Firestore *
